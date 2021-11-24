@@ -1,0 +1,165 @@
+.navbar {
+  background-color: #B91646;
+  font-family: "Enigmatic", sans-serif;
+}
+
+.center {
+  background-color: #DFD8CA;
+  font-family: "Cumulus", sans-serif;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  padding-left: 25%;
+  padding-right: 25%;
+  color: #105652;
+  text-align: center;
+}
+
+.center1 {
+  height: 10vw;
+  background-color: #DFD8CA;
+  font-family: "Cumulus", sans-serif;
+  font-size: 3vw;
+  padding-left: 25%;
+  padding-right: 25%;
+  color: #105652;
+  text-align: center;
+}
+
+.greeting {
+  font-size: 5vw;
+}
+
+.name {
+  font-size: 3vw;
+}
+
+#about {
+  padding-top: 7%;
+  padding-bottom: 3%;
+  background-color: #FBF3E4;
+}
+
+.about {
+  color: #B91646;
+  font-family: "JaneAusten", sans-serif;
+}
+
+.about-text {
+  padding-left: 10%;
+  padding-right: 10%;
+  font-family: "Enigmatic", sans-serif;
+  text-align: justify;
+}
+
+.black {
+  text-align: center;
+}
+
+#programming {
+  font-family: "Enimatic", sans-serif;
+  background-color: #FBF3E4;
+}
+
+.row {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+}
+
+.col {
+  width: 33%;
+}
+
+.card {
+  color: #FBF3E4;
+  background-color: #105652;
+  margin-bottom: 10%;
+}
+
+.card-title {
+  text-decoration: underline;
+  padding-bottom: 2%;
+}
+
+.card-title, .card-text {
+  color: #FBF3E4;
+  font-family: "Enigmatic", sans-serif;
+}
+
+.cb1, .ct1 {
+  background-color: #588986;
+  text-align: left;
+}
+
+.cb2, .ct2 {
+  background-color: #105652;
+  text-align: center;
+}
+
+.cb3, .ct3 {
+  background-color: #0B3C39;
+  text-align: right;
+}
+
+body {
+  background-color: #FBF3E4;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+html {
+  background-color: #DFD8CA;
+}
+
+#carousel {
+  background-color: #FBF3E4;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+}
+
+#carousel h3 {
+  font-family: "JaneAusten", sans-serif;
+  text-align: center;
+  padding-bottom: 5%;
+  padding-top: 5%;
+}
+
+#carousel h4, #carousel p {
+  font-family: "Enigmatic", sans-serif;
+  text-align: center;
+}
+
+.car1 {
+  color: #FBF3E4;
+  background-color: #5D0B23;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.car2 {
+  color: #FBF3E4;
+  background-color: #B91646;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.car3 {
+  color: #FBF3E4;
+  background-color: #E3A2B5;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.car4 {
+  color: #FBF3E4;
+  background-color: #B91646;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+#footer {
+  background-color: #DFD8CA;
+  font-family: "Enigmatic", sans-serif;
+  text-align: center;
+}
